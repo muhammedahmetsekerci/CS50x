@@ -1,0 +1,8 @@
+sort1 uses:bubble sort
+How do you know?: When I looked at the sorted data, I thought that the faster data would be bubble sort.
+
+sort2 uses:merge sort
+How do you know?: I thought it would be merge sort because it performs well on randomized data.
+
+sort3 uses:selection sort
+How do you know?: I thought it was selection sort because it performs poorly on large datasets
